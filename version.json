@@ -1,6 +1,6 @@
 {
-  "version": "1.5",
+  "version": "1.5.2",
   "dll": "https://raw.githubusercontent.com/hopolopa/plugin_by_hopolopa.dll/main/plugin_by_hopolopa.dll",
-  "sha256": "08AF41FD74BA3096D497E234C79FFD9268770DFC20D6958E2ABAA058CA7E2A09",
-  "notes": "New feature:\n\n- Engine always on, Bus xp\n\nHot fixes:\n- flips 1-50"
+  "sha256": "F8C50575578EF408CFD79C74CE8A88DF0F4C70889EA8AE5EA5C5E8B2AF5558E6",
+  "notes": "Support 1.62.3.3s"
 }
