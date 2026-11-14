@@ -1,6 +1,6 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.3",
   "dll": "https://raw.githubusercontent.com/hopolopa/plugin_by_hopolopa.dll/main/plugin_by_hopolopa.dll",
-  "sha256": "F8C50575578EF408CFD79C74CE8A88DF0F4C70889EA8AE5EA5C5E8B2AF5558E6",
+  "sha256": "A33638E4A8FB36B19B49B7AE3D9F2D3FB70EB633EC4BBEA0C1BA0818C1CD4B3C",
   "notes": "Support 1.62.3.3s"
 }
