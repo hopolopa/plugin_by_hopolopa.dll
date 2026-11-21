@@ -1,6 +1,6 @@
 {
-  "version": "1.6",
+  "version": "1.6.1",
   "dll": "https://raw.githubusercontent.com/hopolopa/plugin_by_hopolopa.dll/main/plugin_by_hopolopa.dll",
-  "sha256": "331BCD254913D9BC83F3E6FCC0D962436BB815197F060290C7168756854DF36E",
-  "notes": "- Vehicle switching for trucks, trailers, and buses.\n- Color controls for trucks, trailers, and buses.\n- Two Wheels and function search.\n- Bus job protections: passenger satisfaction stays at maximum, with protection from damage and harsh acceleration."
+  "sha256": "70511BA356C93ECEBEE575FC2144EBB872AE6CCDEEC0B511B753270C0FA788C9",
+  "notes": "**Version 1.6**\n- Vehicle switching for trucks, trailers, and buses.\n- Color controls for trucks, trailers, and buses.\n- Two Wheels and function search.\n- Bus job protections: passenger satisfaction stays at maximum, with protection from damage and harsh acceleration.\n\n**Version 1.6.1**\n- Bug fixes.\n- Added a cargo weight adjustment feature."
 }
